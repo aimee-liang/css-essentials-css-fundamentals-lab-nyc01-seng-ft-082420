@@ -26,3 +26,8 @@ figcaption {text-align: center;}
   margin-left: auto;
   width: 800px;
 }
+
+footer {
+  display: block;
+  
+}
